@@ -1,5 +1,6 @@
 // STRING METHODS
 // read more: https://www.w3schools.com/js/js_string_methods.asp
+// read even more: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods
 
 let string = "Dette er en string med ca 33 tegn";
 let length = string.length;
@@ -52,6 +53,8 @@ console.log(trimmed);
 
 // ARRAY METHODS
 // read more: https://www.w3schools.com/js/js_array_methods.asp
+// read even more: https://www.javascripttutorial.net/javascript-array-methods/
+
 const hobbies = [
   "Coding",
   "Fisking",
@@ -160,6 +163,7 @@ console.log(cities);
 
 // NUMBER METHODS
 // read more: https://www.w3schools.com/js/js_number_methods.asp
+// read even more: https://dev.to/catherineisonline/12-javascript-number-methods-cheatsheet-1oie
 
 let number = 52;
 console.log(number);
